@@ -4,13 +4,13 @@ languageCode = "en-us"
 paginate = "8"
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "MemeBees | Brought you the latest news"
+title = "Parsa Hugo | Personal Blog Template"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Homepage 2"
+name = "Home"
 parent = "Homepage"
-url = "homepage/home-2/"
+url = "homepage"
 [[menu.main]]
 name = "About"
 url = "about/"
