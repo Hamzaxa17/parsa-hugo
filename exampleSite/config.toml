@@ -8,15 +8,6 @@ title = "Parsa Hugo | Personal Blog Template"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-hasChildren = true
-name = "Homepage"
-url = ""
-weight = 1
-[[menu.main]]
-name = "Homepage 1"
-parent = "Homepage"
-url = "homepage/home-1/"
-[[menu.main]]
 name = "Homepage 2"
 parent = "Homepage"
 url = "homepage/home-2/"
