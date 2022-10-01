@@ -9,6 +9,11 @@ title = "Parsa Hugo | Personal Blog Template"
 unsafe = true
 [[menu.main]]
 hasChildren = ""
+name = "Blog"
+url = "https://memebees.tk/blog"
+weight = ""
+[[menu.main]]
+hasChildren = ""
 name = "Home"
 url = "https://memebees.tk/"
 weight = ""
