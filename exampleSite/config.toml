@@ -8,6 +8,11 @@ title = "Parsa Hugo | Personal Blog Template"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+hasChildren = ""
+name = "Home"
+url = "https://memebees.tk/homepage/"
+weight = ""
+[[menu.main]]
 name = "Home"
 parent = "Homepage"
 url = "homepage"
