@@ -4,7 +4,7 @@ languageCode = "en-us"
 paginate = "8"
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "Parsa Hugo | Personal Blog Template"
+title = "MemeBees | Brought you the latest news"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
