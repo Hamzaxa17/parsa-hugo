@@ -10,12 +10,8 @@ unsafe = true
 [[menu.main]]
 hasChildren = ""
 name = "Home"
-url = "https://memebees.tk/homepage/"
+url = "https://memebees.tk/"
 weight = ""
-[[menu.main]]
-name = "Home"
-parent = "Homepage"
-url = "homepage"
 [[menu.main]]
 name = "About"
 url = "about/"
