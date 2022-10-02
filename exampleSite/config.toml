@@ -40,7 +40,7 @@ home = "Home"
 layout = "1"
 logo = "images/logo.png"
 mobile = "+90 000 333 22"
-preloader = true
+preloader = false 
 search = true
 [params.cookies]
 enable = true
